@@ -1,12 +1,14 @@
 # To-Do List Application
-This is a simple to-do list application built using HTML, CSS, and JavaScript.
+Welcome to the Todo List Web Application! This is a simple and user-friendly application to help you manage your daily tasks and stay organized.
 
 
 # Features
-- Add tasks to your to-do list
-- Mark tasks as complete
-- Delete tasks from the list
-- Store tasks in the browser's local storage for persistence
+- Add tasks: Easily add new tasks by typing them into the input field and clicking the "Add" button.
+- Mark as completed: Once you have completed a task, you can mark it as done by clicking the checkbox next to the task.
+- Delete tasks: If you no longer need a task, you can remove it from the list by clicking the "Delete" button.
+
+# Website Link
+You can access the Todo List Web Application by following this link: [Todo List Web App](https://ankitjha13.github.io/ToDo-List2/)
 
 
 # Getting Started
