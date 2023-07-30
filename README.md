@@ -10,6 +10,12 @@ Welcome to the Todo List Web Application! This is a simple and user-friendly app
 # Website Link
 You can access the Todo List Web Application by following this link: [Todo List Web App](https://ankitjha13.github.io/ToDo-List2/)
 
+# How to Use
+- Open the link provided above in your web browser.
+- You will see a simple interface with an input field to add tasks and a list displaying your tasks.
+- To add a new task, type the task description in the input field and click the "Add" button or press Enter.
+- To mark a task as completed, simply click the checkbox next to the task.
+- To delete a task, click the "Delete" button next to the task you want to remove.
 
 # Getting Started
 To use the application, follow these steps:
